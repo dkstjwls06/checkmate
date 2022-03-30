@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
         root: './view'
     });
 });
-app.listen(4000);
+app.listen(80);
 //# sourceMappingURL=index.js.map
